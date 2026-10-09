@@ -1,0 +1,6 @@
+Вопрос: Какая команда объединяет ветки?
+A) git combine
+B) git attach
+C) git link
+D) git merge
+Правильный ответ: D
